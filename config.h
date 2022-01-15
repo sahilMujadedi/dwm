@@ -6,8 +6,8 @@ static const unsigned int gappx     = 5;        /* gap pixel */
 static const unsigned int snap      = 16;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "serif:size=10" };
-static const char dmenufont[]       = "serif:size=11";
+static const char *fonts[]          = { "Ubuntu:size=12" };
+static const char dmenufont[]       = "Ubuntu:size=12";
 static const char col_gray1[]       = "#444444";
 static const char col_gray2[]       = "#666666";
 static const char col_gray3[]       = "#dddddd";
